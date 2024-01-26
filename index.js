@@ -28,7 +28,7 @@ inquirer.prompt([
 ])
 .then((answers) => {
     console.log(answers);
-    // const dataToWrite = JSON.stringify(answers, null, 2);
+    
     const svgFile = generateSvg(answers);
 
     fs.writeFile("logo.svg", svgFile, (err) =>
