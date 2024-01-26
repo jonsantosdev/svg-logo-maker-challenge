@@ -1,5 +1,4 @@
 # SVG logo maker
-SVG logo maker
 
 ## Description
 This application generates a simple logo file named logo.sgv when a user is prompted to:
@@ -35,6 +34,8 @@ https://jonsantosdev.github.io/svg-logo-maker-challenge/
 * Choose text size from a list
 * Choose shape size from a list
 
+## Walkthrough video
+https://app.screencastify.com/v3/watch/niZROUDJ6pI0EhCbOlNb
 
 ## Sreenshots of logo.svg file created
 ![Alt text](image.png)
