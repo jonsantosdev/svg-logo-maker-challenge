@@ -23,10 +23,10 @@ N/A
 MIT
 
 ## Repository
-
+https://github.com/jonsantosdev/svg-logo-maker-challenge
 
 ## Website
-
+https://jonsantosdev.github.io/svg-logo-maker-challenge/
 
 ## Future feature development
 * Options for text font
@@ -37,3 +37,4 @@ MIT
 
 
 ## Sreenshots of logo.svg file created
+![Alt text](image.png)
